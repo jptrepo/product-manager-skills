@@ -79,6 +79,24 @@ Instead of saying *"Write a PRD"* and hoping for the best, the agent already kno
 
 ---
 
+### 🎓 Higher Education Adaptation
+
+**NEW:** [Higher Education IT Project Management Skills](skills/higher-ed/README.md)
+
+Specialized adaptation for managing IT projects in decentralized academic environments where:
+- Units request software without knowing what already exists on campus
+- Governance spans academic, administrative, and IT stakeholders
+- Transparency and communication are critical for trust
+
+**Includes 7 higher-ed-specific skills:**
+- IT request templates and capability inventory
+- Governance routing and capability discovery advisors
+- Complete intake-to-decision workflow
+
+[Explore Higher Ed Skills →](skills/higher-ed/README.md)
+
+---
+
 ## ✅ Safety and Evaluation
 
 Before using any skill:
@@ -501,6 +519,20 @@ See [LICENSE](LICENSE) for full details.
 - **GitHub Issues:** [Report bugs or suggest features](https://github.com/deanpeters/Product-Manager-Skills/issues)
 - **LinkedIn:** [Connect with Dean Peters](https://linkedin.com/in/deanpeters)
 - **Productside:** [Learn more about AI PM consulting](https://productside.com)
+
+---
+
+## 🎓 Higher Education Adaptation
+
+For IT project management in academic institutions, see the specialized [Higher Education Skills collection](skills/higher-ed/README.md).
+
+This adaptation addresses unique challenges:
+- **Decentralized decision-making** across academic units
+- **Siloed knowledge** about existing campus capabilities  
+- **Complex governance** with faculty, staff, and administrative stakeholders
+- **Transparency requirements** for trust and adoption
+
+**7 specialized skills** covering request intake, capability discovery, governance routing, and stakeholder communication.
 
 ---
 
