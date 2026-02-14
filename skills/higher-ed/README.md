@@ -22,8 +22,10 @@ Higher education institutions face unique project management challenges:
 
 | Skill | Use When You Need To... |
 |-------|-------------------------|
-| **[it-request-template](it-request-template/SKILL.md)** | Standardize IT project requests from academic/admin units |
+| **[ai-governance-principles](ai-governance-principles/AI_GOVERNANCE_PRINCIPLES.md)** | Evaluate AI requests using 6-dimension rubric; AI committee sign-off required |
 | **[capability-inventory](capability-inventory/SKILL.md)** | Document existing campus software, services, and capabilities |
+| **[it-request-template](it-request-template/SKILL.md)** | Standardize IT project requests from academic/admin units |
+| **[vendor-research](vendor-research/SKILL.md)** | Research vendors using Educause, Internet2, and peer institutions |
 | **[stakeholder-mapping-higher-ed](stakeholder-mapping-higher-ed/SKILL.md)** | Map decision-makers, influencers, and users across campus units |
 | **[project-charter-higher-ed](project-charter-higher-ed/SKILL.md)** | Frame IT projects in academic/administrative context |
 | **[risk-assessment-higher-ed](risk-assessment-higher-ed/SKILL.md)** | Evaluate IT risks specific to higher ed (FERPA, accessibility, integration) |

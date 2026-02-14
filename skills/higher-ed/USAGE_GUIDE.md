@@ -31,19 +31,23 @@
 
 **Start here:**
 1. Use [`it-request-template`](it-request-template/SKILL.md) to gather structured information
-2. Run [`capability-discovery-advisor`](capability-discovery-advisor/SKILL.md) to check existing campus tools
-3. Use [`it-governance-advisor`](it-governance-advisor/SKILL.md) to determine routing path
+2. **If AI-related:** Check [`ai-governance-principles`](ai-governance-principles/AI_GOVERNANCE_PRINCIPLES.md) rubric - requires AI committee sign-off
+3. Use [`vendor-research`](vendor-research/SKILL.md) to evaluate vendor via Educause, Internet2, peer institutions
+4. Run [`capability-discovery-advisor`](capability-discovery-advisor/SKILL.md) to check existing campus tools
+5. Use [`it-governance-advisor`](it-governance-advisor/SKILL.md) to determine routing path
 
 **Example prompt to AI agent:**
 ```
-"A department submitted a request for project management software. 
+"A department submitted a request for AI-powered tutoring software. 
 Using the IT Request Template skill, guide me through gathering 
-the necessary information, then help me determine if we already 
-have a campus solution that meets their needs."
+information, then use the AI Governance Principles to evaluate 
+whether this meets our AI committee requirements."
 ```
 
 **Outcome:** Within 30 minutes, you'll know:
-- Whether existing campus tools meet the need
+- Whether AI committee review is required
+- If existing campus tools meet the need
+- Vendor viability from peer institutions
 - What governance path this should follow
 - Who needs to be involved in the decision
 
